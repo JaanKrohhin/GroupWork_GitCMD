@@ -1,0 +1,19 @@
+Q1: Insert into table[column]: value[value1];
+
+The above statement is written incorrectly. Write the correct SQL INSERT statement in the answer below.
+A1: 
+
+Q2: 
+Create table People(
+ id text;
+ name int;
+ telefon int;
+)
+The above statement is trying to create the table People(id, name, telefon) but with the wrong datatypes.  Write the SQL statement to create the table with correct datatypes in the answer below.
+A2:
+
+Q3: Agile does not include practices, but defines the values ??and principles that guide teams. Is this correct? Write Yes or No in the answer below.
+A3: 
+
+Q4: The spiral model has 4 sectors. Is this correct? Write Yes or No in the answer below.
+A4:
