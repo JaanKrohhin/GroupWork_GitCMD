@@ -25,4 +25,4 @@ Q3: Agile does not include practices, but defines the values ??and principles th
 A3: yes
 
 Q4: The spiral model has 4 sectors. Is this correct? Write Yes or No in the answer below.
-A4: 
+A4: yes
