@@ -3,7 +3,7 @@ Q1: Insert into table[column]: value[value1];
 
 The above statement is written incorrectly. Write the correct SQL INSERT statement in the answer below.
 A1: 
-
+Insert into table(column) value(value1);/*answered*/
 Commit 2
 Q2: 
 Create table People(
