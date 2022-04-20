@@ -1,8 +1,10 @@
+Commit 1
 Q1: Insert into table[column]: value[value1];
 
 The above statement is written incorrectly. Write the correct SQL INSERT statement in the answer below.
 A1: 
 
+Commit 2
 Q2: 
 Create table People(
  id text;
@@ -12,6 +14,7 @@ Create table People(
 The above statement is trying to create the table People(id, name, telefon) but with the wrong datatypes.  Write the SQL statement to create the table with correct datatypes in the answer below.
 A2:
 
+Commit 3
 Q3: Agile does not include practices, but defines the values ??and principles that guide teams. Is this correct? Write Yes or No in the answer below.
 A3: 
 
