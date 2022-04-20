@@ -13,7 +13,12 @@ Create table People(
 )
 The above statement is trying to create the table People(id, name, telefon) but with the wrong datatypes.  Write the SQL statement to create the table with correct datatypes in the answer below.
 A2:
-
+Create table People(
+ id int;
+ name varchar(25);
+ telefon varchar(25);
+/*answered*/
+)
 
 Commit 3
 Q3: Agile does not include practices, but defines the values ??and principles that guide teams. Is this correct? Write Yes or No in the answer below.
