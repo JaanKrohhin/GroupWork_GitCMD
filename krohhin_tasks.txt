@@ -21,6 +21,6 @@ telefon varchar(25);
 Commit 3
 Q3: Agile does not include practices, but defines the values ??and principles that guide teams. Is this correct? Write Yes or No in the answer below.
 A3: 
-
+Yes /*answered*/
 Q4: The spiral model has 4 sectors. Is this correct? Write Yes or No in the answer below.
 A4:
